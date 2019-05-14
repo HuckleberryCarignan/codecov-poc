@@ -14,7 +14,7 @@ A sample app an instantiation for nyc (test coverage tool)
 	> node app.js deleteTodo --title="Netflix and Chill with Xty"
 ```
 ### To LIST to the to-do list:
- > node app.js listTodo --title="ITEM TO ADD"
+ > node app.js listTodos
 ##### _example:_
 ```
 	> node app.js listTodo --title="Netflix and Chill with Xty"
