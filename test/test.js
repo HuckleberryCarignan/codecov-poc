@@ -1,5 +1,6 @@
 const { expect } = require('chai');
 const { addTodo } = require('../todos.js');
+require('../app.js');
 const rn = require('random-number');
 const { describe, it } = require('mocha');
 
