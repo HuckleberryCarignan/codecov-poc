@@ -19,3 +19,9 @@ A sample app an instantiation for nyc (test coverage tool)
 ```
 	> node app.js listTodos
 ```
+
+
+# To actually run the nyc trace:
+```
+	> npm run coverage
+```
