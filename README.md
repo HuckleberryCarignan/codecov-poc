@@ -1,3 +1,6 @@
+# NOTE: This is inteded to support a spike for FastPay
+
+
 # nyc-test
 A sample app an instantiation for nyc (test coverage tool)
 
