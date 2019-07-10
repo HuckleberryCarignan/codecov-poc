@@ -1,0 +1,18 @@
+{
+	"uuid": "75f40436-9b96-409d-abfb-5fee63e75801",
+	"parent": null,
+	"pid": 16432,
+	"argv": [
+		"/Users/huckcarignan/.nvm/versions/node/v10.15.1/bin/node",
+		"/Users/huckcarignan/.nvm/versions/node/v10.15.1/bin/npm",
+		"run",
+		"test"
+	],
+	"execArgv": [],
+	"cwd": "/Users/huckcarignan/Desktop/nyc-test",
+	"time": 1559053165840,
+	"ppid": 16430,
+	"root": "318eb956-1bae-4c8d-b839-0f1e0db9347c",
+	"coverageFilename": "/Users/huckcarignan/Desktop/nyc-test/.nyc_output/75f40436-9b96-409d-abfb-5fee63e75801.json",
+	"files": []
+}
