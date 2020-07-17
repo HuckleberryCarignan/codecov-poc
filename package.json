@@ -10,7 +10,7 @@
     "chai": "^4.2.0",
     "eslint": "^5.16.0",
     "fs": "^0.0.1-security",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "nyc": "^14.1.1",
     "random-number": "0.0.9",
     "read-file": "^0.2.0",
